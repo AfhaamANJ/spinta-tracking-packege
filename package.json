@@ -1,0 +1,19 @@
+{
+  "name": "spinta-affliate",
+  "version": "1.0.0",
+  "description": "To track conversion,click and payment from tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfhaamANJ/spinta-tracking-packege.git"
+  },
+  "author": "Afhaam ANJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfhaamANJ/spinta-tracking-packege/issues"
+  },
+  "homepage": "https://github.com/AfhaamANJ/spinta-tracking-packege#readme"
+}
