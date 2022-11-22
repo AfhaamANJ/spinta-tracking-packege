@@ -29,7 +29,7 @@ const target = {
 
   
       var script = document.createElement("script");
-      script.src = "https://dev-amp-scripts.anjtechsolutions.com/main.js";
+      script.src = "http://localhost:81/ampscr/dist/main.js";
       script.type = "text/javascript";
       script.async = true;
   
