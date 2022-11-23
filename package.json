@@ -1,6 +1,6 @@
 {
   "name": "spinta-affliate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "To track conversion,click and payment from tracker",
   "main": "index.js",
   "type": "module",
